@@ -9,4 +9,4 @@
 - [ ] Add proper logging;
 - [ ] Add support for adding files, not only modifying.
 - [ ] Maybe add search for discrepancies?
-(i.e. changing "Supercell" to "Supercell" checks if all other all instances of "Supercell" were changed as well)
+(i.e. changing "Supercell" to "supercell" checks if all other all instances of "Supercell" were changed as well)
