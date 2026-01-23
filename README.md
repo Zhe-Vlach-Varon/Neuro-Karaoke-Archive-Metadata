@@ -19,7 +19,8 @@ This repository is a public interface for the metadata in the [Neuro Karaoke Arc
 
 * Date: Release date of the song if there is one. For unreleased songs, they should have the earliest date in which they were publicly available.
 The dates should follow the YYYY-MM-DD format.
-* Title: The title of the song, if it’s in a non-latin alphabet it should be followed by a parenthesis containing the translation / transcription. Example: デビルじゃないもん ((Not) A Devil)
+* Title: The title of the song, if it’s in a non-latin alphabet it should be followed by a parenthesis containing the translation / transcription.
+Example: デビルじゃないもん ((Not) A Devil)
 * CoverArtist: The singer may be Neuro or Evil for a solo song;
 In the case of a duet the singers must be separated by an ‘&’. Neuro should always come before Evil and Evil always before any other duet partner.
 Example: “Evil & Cerber”
