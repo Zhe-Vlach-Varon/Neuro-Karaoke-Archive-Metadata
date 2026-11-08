@@ -3,7 +3,11 @@
   Title: Thing
   Artist: Steampianist
   CoverArtist: Evil
+<<<<<<<< HEAD:DISC 9 - Regularly Scheduled Program (2026-06-24 - Present)/160. Steampianist - Thing (Evil.v1).hjson
   Version: 1
+========
+  Version: 3
+>>>>>>>> main:DISC 9 - Regularly Scheduled Program (2026-06-24 - Present)/160. Steampianist - Thing (Evil.v3).hjson
   Discnumber: 9
   Track: 160
   xxHash: 7399748dcf526485
